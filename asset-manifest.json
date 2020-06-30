@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/expense-income-tracker-app/static/css/main.94003254.chunk.css",
+    "main.js": "/expense-income-tracker-app/static/js/main.6e601ec5.chunk.js",
+    "main.js.map": "/expense-income-tracker-app/static/js/main.6e601ec5.chunk.js.map",
+    "runtime-main.js": "/expense-income-tracker-app/static/js/runtime-main.fba820ff.js",
+    "runtime-main.js.map": "/expense-income-tracker-app/static/js/runtime-main.fba820ff.js.map",
+    "static/js/2.d8edba2c.chunk.js": "/expense-income-tracker-app/static/js/2.d8edba2c.chunk.js",
+    "static/js/2.d8edba2c.chunk.js.map": "/expense-income-tracker-app/static/js/2.d8edba2c.chunk.js.map",
+    "index.html": "/expense-income-tracker-app/index.html",
+    "precache-manifest.d23f8736d309a6b6433a0aa253fcedec.js": "/expense-income-tracker-app/precache-manifest.d23f8736d309a6b6433a0aa253fcedec.js",
+    "service-worker.js": "/expense-income-tracker-app/service-worker.js",
+    "static/css/main.94003254.chunk.css.map": "/expense-income-tracker-app/static/css/main.94003254.chunk.css.map",
+    "static/js/2.d8edba2c.chunk.js.LICENSE.txt": "/expense-income-tracker-app/static/js/2.d8edba2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fba820ff.js",
+    "static/js/2.d8edba2c.chunk.js",
+    "static/css/main.94003254.chunk.css",
+    "static/js/main.6e601ec5.chunk.js"
+  ]
+}
