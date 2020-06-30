@@ -4,6 +4,7 @@ import styles from './Balance.module.scss';
 
 const Balance = () => {
   const { transactions } = useContext(GlobalContext);
+  console.log(transactions);
   const amount = transactions.reduce(
     (acc, currentVal) => acc + currentVal.amount,
     0
