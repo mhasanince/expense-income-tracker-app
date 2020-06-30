@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/expense-income-tracker-app/static/css/main.b9a72b1a.chunk.css",
-    "main.js": "/expense-income-tracker-app/static/js/main.6e601ec5.chunk.js",
-    "main.js.map": "/expense-income-tracker-app/static/js/main.6e601ec5.chunk.js.map",
+    "main.js": "/expense-income-tracker-app/static/js/main.1e909524.chunk.js",
+    "main.js.map": "/expense-income-tracker-app/static/js/main.1e909524.chunk.js.map",
     "runtime-main.js": "/expense-income-tracker-app/static/js/runtime-main.fba820ff.js",
     "runtime-main.js.map": "/expense-income-tracker-app/static/js/runtime-main.fba820ff.js.map",
     "static/js/2.d8edba2c.chunk.js": "/expense-income-tracker-app/static/js/2.d8edba2c.chunk.js",
     "static/js/2.d8edba2c.chunk.js.map": "/expense-income-tracker-app/static/js/2.d8edba2c.chunk.js.map",
     "index.html": "/expense-income-tracker-app/index.html",
-    "precache-manifest.b7b0192c1d6fbad1740ffa980c8df73b.js": "/expense-income-tracker-app/precache-manifest.b7b0192c1d6fbad1740ffa980c8df73b.js",
+    "precache-manifest.e6c5cef6763c0840e950e00ef02b46c0.js": "/expense-income-tracker-app/precache-manifest.e6c5cef6763c0840e950e00ef02b46c0.js",
     "service-worker.js": "/expense-income-tracker-app/service-worker.js",
     "static/css/main.b9a72b1a.chunk.css.map": "/expense-income-tracker-app/static/css/main.b9a72b1a.chunk.css.map",
     "static/js/2.d8edba2c.chunk.js.LICENSE.txt": "/expense-income-tracker-app/static/js/2.d8edba2c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fba820ff.js",
     "static/js/2.d8edba2c.chunk.js",
     "static/css/main.b9a72b1a.chunk.css",
-    "static/js/main.6e601ec5.chunk.js"
+    "static/js/main.1e909524.chunk.js"
   ]
 }

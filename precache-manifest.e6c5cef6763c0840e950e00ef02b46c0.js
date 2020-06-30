@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "382519204bb22b362039b82478856f91",
+    "revision": "0af5c5a912aa9d70e074247a2947f28f",
     "url": "/expense-income-tracker-app/index.html"
   },
   {
-    "revision": "eb8e981799cb906b65b1",
+    "revision": "455e6e37d2dd72ecf3cb",
     "url": "/expense-income-tracker-app/static/css/main.b9a72b1a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/expense-income-tracker-app/static/js/2.d8edba2c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eb8e981799cb906b65b1",
-    "url": "/expense-income-tracker-app/static/js/main.6e601ec5.chunk.js"
+    "revision": "455e6e37d2dd72ecf3cb",
+    "url": "/expense-income-tracker-app/static/js/main.1e909524.chunk.js"
   },
   {
     "revision": "26ad21f828aa1044997c",
