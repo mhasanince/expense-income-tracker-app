@@ -1,15 +1,22 @@
 @import '../styles/variables';
 
-.balance {
+.balanceContainer {
+  display: flex;
+  justify-content: space-between;
   margin: $block-margin 0;
-  .title {
-    font-weight: 300;
-    letter-spacing: -2px;
-    text-transform: uppercase;
+  .balance {
+    .title {
+      font-weight: 300;
+      letter-spacing: -2px;
+      text-transform: uppercase;
+    }
+    .amount {
+      font-size: 3rem;
+      font-weight: 400;
+      letter-spacing: -2px;
+    }
   }
-  .amount {
-    font-size: 3rem;
-    font-weight: 400;
-    letter-spacing: -2px;
+  .currency {
+    margin-top: 5px;
   }
 }

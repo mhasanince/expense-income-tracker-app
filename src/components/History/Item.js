@@ -1,6 +1,7 @@
 import React, { useContext } from 'react';
 import { GlobalContext } from '../../Context/GlobalState';
 import styles from './History.module.scss';
+import Currency from '../utils/Currency';
 
 const Item = ({ id, name, amount }) => {
   const { deleteTransaction } = useContext(GlobalContext);
@@ -19,7 +20,7 @@ const Item = ({ id, name, amount }) => {
       <p>{name}</p>
       <p>
         {amount > 0 ? '+' : '-'}
-        <span className="dolar-sign">$</span>
+        <Currency />
         {Math.abs(amount)}
       </p>
     </div>

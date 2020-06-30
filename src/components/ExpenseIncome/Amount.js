@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from './ExpenseIncome.module.scss';
+import Currency from '../utils/Currency';
 
 const Amount = ({ title, amount }) => {
   return (
@@ -10,7 +11,7 @@ const Amount = ({ title, amount }) => {
           title.toLowerCase() === 'expense' ? styles.expense : styles.income
         }`}
       >
-        <span className="dolar-sign">$</span>
+        <Currency />
         {amount}
       </h3>
     </div>
