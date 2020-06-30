@@ -1,6 +1,6 @@
 {
   "name": "expense-tracker-app-with-hooks-and-context-api",
-  "homepage": "http://mhasanince.github.io/expense-income-tracker-app",
+  "homepage": "https://mhasanince.github.io/expense-income-tracker-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
