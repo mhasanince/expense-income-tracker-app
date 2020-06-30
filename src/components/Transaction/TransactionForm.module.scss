@@ -1,0 +1,26 @@
+@import '../../styles/variables';
+
+.transactionForm {
+  display: flex;
+  flex-direction: column;
+  form {
+    display: flex;
+    flex-direction: column;
+    label {
+      margin: ($block-margin / 4) 0;
+    }
+    input {
+      margin: ($block-margin / 4) 0;
+      padding: ($block-padding / 2);
+      border: 1px solid $border-light;
+      font-size: 1rem;
+    }
+    button {
+      padding: ($block-padding / 2);
+      border: 1px solid $border-light;
+      background-color: $bg-button;
+      font-size: 1.2rem;
+      color: $text-button;
+    }
+  }
+}

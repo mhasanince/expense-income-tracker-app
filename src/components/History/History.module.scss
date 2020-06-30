@@ -1,0 +1,65 @@
+@import '../../styles/variables';
+
+.history {
+  display: flex;
+  flex-direction: column;
+  .transactionList {
+    z-index: 1;
+    .item {
+      position: relative;
+      background-color: #ffffff;
+      margin: ($block-margin / 3) 0;
+      padding: ($block-padding / 1.5);
+      display: flex;
+      justify-content: space-between;
+      box-shadow: -1px 1px 4px $shadow;
+      // &::before {
+      //   content: 'X';
+      //   position: absolute;
+      //   left: 0;
+      //   top: 50%;
+      //   transform: translate(0, -50%);
+      //   padding: ($block-padding / 2);
+      //   background-color: $delete;
+      //   color: #ffffff;
+      //   opacity: 0;
+      //   transition: all 0.3s ease-in-out;
+      //   z-index: -1;
+      // }
+      // &:hover {
+      //   &::before {
+      //     cursor: pointer;
+      //     opacity: 1;
+      //     transform: translate(-100%, -50%);
+      //   }
+      // }
+      .deleteBtn {
+        z-index: -1;
+        position: absolute;
+        left: 0;
+        top: 50%;
+        transform: translate(0, -50%);
+        border: none;
+        background-color: $delete;
+        color: #ffffff;
+        cursor: pointer;
+        letter-spacing: -1px;
+        padding: ($block-padding / 2);
+        // opacity: 0;
+        transition: all 0.3s ease-in;
+      }
+      &:hover {
+        .deleteBtn {
+          transform: translate(-100%, -50%);
+          // opacity: 1;
+        }
+      }
+    }
+    .expense {
+      border-right: 5px solid $expense;
+    }
+    .income {
+      border-right: 5px solid $income;
+    }
+  }
+}

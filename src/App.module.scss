@@ -1,0 +1,13 @@
+@import './styles/variables';
+
+.app {
+  background-color: $bg-color;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  .expenseTracker {
+    width: 360px;
+  }
+}
