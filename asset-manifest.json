@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/expense-income-tracker-app/static/css/main.b9a72b1a.chunk.css",
-    "main.js": "/expense-income-tracker-app/static/js/main.1e909524.chunk.js",
-    "main.js.map": "/expense-income-tracker-app/static/js/main.1e909524.chunk.js.map",
+    "main.css": "/expense-income-tracker-app/static/css/main.478f3d3d.chunk.css",
+    "main.js": "/expense-income-tracker-app/static/js/main.44cec95a.chunk.js",
+    "main.js.map": "/expense-income-tracker-app/static/js/main.44cec95a.chunk.js.map",
     "runtime-main.js": "/expense-income-tracker-app/static/js/runtime-main.fba820ff.js",
     "runtime-main.js.map": "/expense-income-tracker-app/static/js/runtime-main.fba820ff.js.map",
-    "static/js/2.d8edba2c.chunk.js": "/expense-income-tracker-app/static/js/2.d8edba2c.chunk.js",
-    "static/js/2.d8edba2c.chunk.js.map": "/expense-income-tracker-app/static/js/2.d8edba2c.chunk.js.map",
+    "static/js/2.e3f50998.chunk.js": "/expense-income-tracker-app/static/js/2.e3f50998.chunk.js",
+    "static/js/2.e3f50998.chunk.js.map": "/expense-income-tracker-app/static/js/2.e3f50998.chunk.js.map",
     "index.html": "/expense-income-tracker-app/index.html",
-    "precache-manifest.e6c5cef6763c0840e950e00ef02b46c0.js": "/expense-income-tracker-app/precache-manifest.e6c5cef6763c0840e950e00ef02b46c0.js",
+    "precache-manifest.94a4e5de802a15d2dc9481e128655d26.js": "/expense-income-tracker-app/precache-manifest.94a4e5de802a15d2dc9481e128655d26.js",
     "service-worker.js": "/expense-income-tracker-app/service-worker.js",
-    "static/css/main.b9a72b1a.chunk.css.map": "/expense-income-tracker-app/static/css/main.b9a72b1a.chunk.css.map",
-    "static/js/2.d8edba2c.chunk.js.LICENSE.txt": "/expense-income-tracker-app/static/js/2.d8edba2c.chunk.js.LICENSE.txt"
+    "static/css/main.478f3d3d.chunk.css.map": "/expense-income-tracker-app/static/css/main.478f3d3d.chunk.css.map",
+    "static/js/2.e3f50998.chunk.js.LICENSE.txt": "/expense-income-tracker-app/static/js/2.e3f50998.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fba820ff.js",
-    "static/js/2.d8edba2c.chunk.js",
-    "static/css/main.b9a72b1a.chunk.css",
-    "static/js/main.1e909524.chunk.js"
+    "static/js/2.e3f50998.chunk.js",
+    "static/css/main.478f3d3d.chunk.css",
+    "static/js/main.44cec95a.chunk.js"
   ]
 }

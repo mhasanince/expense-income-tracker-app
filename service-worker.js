@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/expense-income-tracker-app/precache-manifest.e6c5cef6763c0840e950e00ef02b46c0.js"
+  "/expense-income-tracker-app/precache-manifest.94a4e5de802a15d2dc9481e128655d26.js"
 );
 
 self.addEventListener('message', (event) => {
